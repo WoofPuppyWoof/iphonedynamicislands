@@ -231,7 +231,7 @@ body{
   flex-direction: column;
   justify-content: center;
   height: 100%;
-  max-height: calc(var(--notch-radius) * 2.4);
+  max-height: calc(var(--notch-radius) * 2.3);
   pointer-events: none;
   outline: none;
   transition: var(--notch-duration) var(--ease);
